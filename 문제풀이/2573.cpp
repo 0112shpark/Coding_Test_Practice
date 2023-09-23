@@ -102,6 +102,7 @@ int main() {
 			exit(0);
 		}
 		year++;
+		//d
 	}
 
 }
