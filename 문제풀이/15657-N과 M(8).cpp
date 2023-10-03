@@ -7,7 +7,7 @@ using namespace std;
 
 int n, m;
 int arr[10];
-priority_queue<vector<int>, vector<vector<int>>>pq;
+
 vector<vector<int>> ans;
 
 void dfs(int idx,int cnt, vector<int> temp) {
