@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="14002-가장 긴 증가하는 부분 수열4.cpp">
+    <ClCompile Include="5582-공통 부분 문자열.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
