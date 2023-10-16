@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1000-A+B.cpp">
+    <ClCompile Include="14502-연구소.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
